@@ -5,33 +5,29 @@ import java.util.Scanner;
 public class 평균은넘었겠지 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        int n=scanner.nextInt();
-        int []std=new int[n];
+        int cases=scanner.nextInt();
+        int [] scores;
 
 
-        for(int i=0;i<n;i++){
-            int score=0;
+        for (int i=0;i<cases;i++){
+            int n=scanner.nextInt();
             int total=0;
-            int avg=0;
-            int num=0;
-            int max=0;
-            int j=0;
+            double avg=0;
             int overAvg=0;
-            while (scanner.hasNext()){
-                score=scanner.nextInt();
-                std[j]=score;
-                total+=score;
-                j++;
-                num++;
+            double ratio=0.0;
+            scores=new int[n];
+            for(int j=0;j<scores.length;j++){
+                scores[j]=scanner.nextInt();
+                total+=scores[j];
             }
-            avg=total/num;
-            for (int k=0;k<std.length;k++){
-                if(std[k]>avg){
+            avg=total/scores.length;
+            for (int k=0;k<scores.length;k++){
+                if(avg<scores[k]){
                     overAvg++;
                 }
             }
-            System.out.println(overAvg/total*100+"%");
+            ratio = (double) overAvg / (double) n * (double) 100;
+            System.out.println(String.format("%.3f", ratio) + "%");
         }
-
     }
 }
