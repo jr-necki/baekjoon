@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="5일차">
+    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="6일차">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/단어의개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/단어의개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/크로아티아알파벳.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/크로아티아알파벳.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/수학/달팽이는올라가고싶다.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/달팽이는올라가고싶다.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/수학/손익분기점.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/손익분기점.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +104,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -109,7 +113,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.벌집">
     <configuration name="더하기사이클" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.while문.더하기사이클" />
       <module name="baekjoon" />
@@ -123,12 +127,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="빠른합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.for문.빠른합" />
+    <configuration name="벌집" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학1.벌집" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.for문.*" />
+          <option name="PATTERN" value="com.company.기본수학1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.배열1.최댓값" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.배열1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,6 +185,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.함수.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="단어의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.단어의개수" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,8 +270,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="문자열반복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.문자열반복" />
+    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -318,6 +348,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="숫자의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.배열1.숫자의개수" />
       <module name="baekjoon" />
@@ -346,6 +389,32 @@
     </configuration>
     <configuration name="다이얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.문자열.다이얼" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="빠른합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.for문.빠른합" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.for문.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="그룹단어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.그룹단어" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -448,6 +517,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="문자열반복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.문자열반복" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="최소최대" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.배열1.최소최대" />
       <module name="baekjoon" />
@@ -461,19 +543,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.배열1.최댓값" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.배열1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.벌집" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -501,6 +586,11 @@
       <workItem from="1609933812230" duration="10000" />
       <workItem from="1609947734667" duration="4120000" />
       <workItem from="1609994207799" duration="24000" />
+      <workItem from="1609997904756" duration="139000" />
+      <workItem from="1610014336282" duration="696000" />
+      <workItem from="1610018292595" duration="3970000" />
+      <workItem from="1610042616506" duration="4562000" />
+      <workItem from="1610105775719" duration="5870000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1609506512165</created>
@@ -544,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609921566771</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="6일차">
+      <created>1609998022712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609998022712</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,6 +665,7 @@
     <MESSAGE value="3일차" />
     <MESSAGE value="4일차 (아파서 하나함...)" />
     <MESSAGE value="5일차" />
-    <option name="LAST_COMMIT_MESSAGE" value="5일차" />
+    <MESSAGE value="6일차" />
+    <option name="LAST_COMMIT_MESSAGE" value="6일차" />
   </component>
 </project>
