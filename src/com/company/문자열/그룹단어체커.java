@@ -2,7 +2,7 @@ package com.company.문자열;
 
 import java.util.Scanner;
 
-public class 그룹단어 {
+public class 그룹단어체커 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 
@@ -30,15 +30,13 @@ public class 그룹단어 {
                     }
 
                 }
-
-
             }
             if(ok){
                 group++;
             }
 
         }
-        System.out.println(group);
+        System.out.print(group);
 
     }
 }
