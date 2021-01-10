@@ -5,38 +5,33 @@ import java.util.Scanner;
 public class 그룹단어체커 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-
-        int group=0;
         int[]arr=new int[26];
 
         int cases=scanner.nextInt();
-        for(int i=0;i<cases;i++){
-            for(int k=0;k<arr.length;k++){
-                arr[k]=0;
+        int group=0;
+        for(int j=0;j<cases;j++){
+            for(int i=0;i<26;i++){
+                arr[i]=0;
             }
             String s=scanner.next();
-            boolean ok=true;
-
-            for(int j=0;j<s.length();j++){
-                char ch=s.charAt(j);
+            boolean isGroup=true;
+            for(int k=0;k<s.length();k++){
+                char ch = s.charAt(k);
                 if(arr[ch-'a']==0){
                     arr[ch-'a']=1;
                 }else{
-                    if(j>0){
-                        if(ch!=s.charAt(j-1)){
-                            System.out.println(ch+" "+s.charAt(j-1));
-                            ok=false;
-                        }
+                    if(s.charAt(k-1)!=s.charAt(k)){
+                        isGroup=false;
+                        break;
                     }
-
                 }
             }
-            if(ok){
+            if(isGroup){
                 group++;
             }
 
         }
-        System.out.print(group);
+        System.out.println(group);
 
     }
 }
