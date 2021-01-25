@@ -6,15 +6,16 @@ public class 영화감독숌 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();
-        int i=1;
-        int finalNum=666;
-        int a=100;
-       while (i!=n){
-           finalNum++;
-           if (String.valueOf(finalNum).contains("666")){
-               i++;
-           }
-       }
-        System.out.println(finalNum);
+
+        int num=666;
+        int count=1;
+
+        while (count!=n){
+            num++;
+            if(String.valueOf(num).contains("666")){
+                count++;
+            }
+        }
+        System.out.println(num);
     }
 }
