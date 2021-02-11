@@ -5,18 +5,30 @@ import java.util.Scanner;
 public class 분수찾기 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        int th=scanner.nextInt();
-        int i=(int)Math.floor(Math.sqrt(th*2));
-        int d=th-sum(i-1);
-        int x=i-d+1;
-        if(i%2==0){
-            System.out.println(d+"/"+x);
-        }else{
-            System.out.println(x+"/"+d);
-        }
-    }
+        int n=scanner.nextInt();
 
-    private static int sum(int i) {
-        return i*(1+i)/2;
-    }
+        //대각선 홀수번째 올라가는방향
+        //대각선 짝수번째 내려가는방향
+
+        int crossNum=1; int countSum=0;
+        while(true){
+            //지금까지 대각선+해당대각선으로 범위
+            if(n<=countSum+crossNum){
+                if(crossNum%2==1){
+                    //홀수니까 위방향
+                    System.out.println(crossNum-(n-countSum-1)+"/"+ (n-countSum));
+                    break;
+               }
+                else{
+                    //짝수
+                    System.out.println((n-countSum)+"/"+(crossNum-(n-countSum-1)));
+                    break;
+                }
+            }else{
+                //범위맞을때까지
+                countSum+=crossNum;
+                crossNum++;
+            }
+        }
+}
 }
