@@ -2,7 +2,7 @@ package com.company.for문;
 
 import java.util.Scanner;
 
-public class 별찍기_1 {
+public class 별찍기_1_2438 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();

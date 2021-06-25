@@ -2,7 +2,7 @@ package com.company.문자열;
 
 import java.util.Scanner;
 
-public class 문자열반복 {
+public class 문자열반복_2675 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int cases=scanner.nextInt();

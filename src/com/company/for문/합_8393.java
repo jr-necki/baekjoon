@@ -2,7 +2,7 @@ package com.company.for문;
 
 import java.util.Scanner;
 
-public class 합 {
+public class 합_8393 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();

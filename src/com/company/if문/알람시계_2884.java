@@ -2,7 +2,7 @@ package com.company.if문;
 
 import java.util.Scanner;
 
-public class 알람시계 {
+public class 알람시계_2884 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int h=scanner.nextInt();

@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="21일차(백트래킹)">
+    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/백트래킹/N과M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/백트래킹/N과M1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/백트래킹/N과M2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/백트래킹/N과M2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/덩치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/덩치.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/분해합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/분해합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/블랙잭.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/블랙잭.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/영화감독숌.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/영화감독숌.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/체스판다시칠하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/체스판다시칠하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/재귀/별찍기10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/재귀/별찍기10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/재귀/팩토리얼.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/재귀/팩토리얼.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/재귀/피보나치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/재귀/피보나치.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/재귀/하노이탑.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/재귀/하노이탑.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/나이순정렬.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/단어정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/단어정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/소트인사이드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/소트인사이드.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기2다른방법.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기2다른방법.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/수정렬하기3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/좌표정렬하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/좌표정렬하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/좌표정렬하기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/좌표정렬하기2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/정렬/통계학.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/정렬/통계학.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/함수/셀프넘버.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/함수/셀프넘버.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/함수/정수N개의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/함수/정수N개의합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/함수/한수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/함수/한수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/for문/N찍기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/for문/N찍기_2741.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/for문/X보다작은수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/for문/X보다작은수_10871.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/for문/구구단.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/for문/구구단_2739.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/for문/별찍기_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/for문/별찍기_1_2438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/for문/빠른합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/for문/빠른합_15552.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/for문/합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/for문/합_8393.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/if문/CompareAB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/if문/두수비교하기_1330.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/if문/사분면고르기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/if문/사분면고르기_14681.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/if문/시험성적.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/if문/시험성적_9498.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/if문/알람시계.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/if문/알람시계_2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/if문/윤년.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/if문/윤년_2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/while문/더하기사이클.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/while문/더하기사이클_1110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/ACM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/ACM_10250.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/FlyMeTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/FlyMeToTheAlphaCentauri_1011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/달팽이는올라가고싶다.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/달팽이는올라가고싶다_2869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/벌집.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/벌집_2292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/부녀회장이될테야.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/부녀회장이될테야_2775.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/분수찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/분수찾기_1193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/설탕배달.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/설탕배달_2839.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/손익분기점.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/손익분기점_1712.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/기본수학1/큰수AB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/기본수학1/큰수AB_10757.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/그룹단어체커.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/그룹단어체커_1316.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/다이얼.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/다이얼_5622.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/단어공부.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/단어공부_1157.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/단어의개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/단어의개수_1152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/문자열반복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/문자열반복_2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/상수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/상수_2908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/상수다른방법.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/상수다른방법_2908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/숫자의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/숫자의합_11720.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/아스키코드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/아스키코드_11654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/알파벳찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/알파벳찾기_10809.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/문자열/크로아티아알파벳.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/문자열/크로아티아알파벳.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1079,7 +1086,7 @@
       <workItem from="1613385153296" duration="185000" />
       <workItem from="1620337073509" duration="838000" />
       <workItem from="1620377233369" duration="614000" />
-      <workItem from="1624613452997" duration="6062000" />
+      <workItem from="1624613452997" duration="6844000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1609506512165</created>
@@ -1256,7 +1263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613225167063</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="commit">
+      <created>1624621129779</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1624621129779</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1297,7 +1311,8 @@
     <MESSAGE value="20일차(점점 어렵다..)" />
     <MESSAGE value="21일차" />
     <MESSAGE value="21일차(백트래킹)" />
-    <option name="LAST_COMMIT_MESSAGE" value="21일차(백트래킹)" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/baekjoon$.ic" NAME="그룹단어체커 Coverage Results" MODIFIED="1610257737506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

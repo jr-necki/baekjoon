@@ -1,7 +1,7 @@
 package com.company.기본수학1;
 import java.util.Scanner;
 
-public class ACM {
+public class ACM_10250 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int cases=scanner.nextInt();

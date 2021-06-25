@@ -2,7 +2,7 @@ package com.company.if문;
 
 import java.util.Scanner;
 
-public class 시험성적 {
+public class 시험성적_9498 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int a=scanner.nextInt();

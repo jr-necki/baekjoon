@@ -2,7 +2,7 @@ package com.company.if문;
 
 import java.util.Scanner;
 
-public class 윤년 {
+public class 윤년_2753 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int year=scanner.nextInt();

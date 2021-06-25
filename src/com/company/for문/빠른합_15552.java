@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class 빠른합 {
+public class 빠른합_15552 {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); //선언
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));//선언

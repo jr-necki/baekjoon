@@ -2,7 +2,7 @@ package com.company.while문;
 
 import java.util.Scanner;
 
-public class 더하기사이클 {
+public class 더하기사이클_1110 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int a=scanner.nextInt();

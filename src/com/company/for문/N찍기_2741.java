@@ -2,16 +2,15 @@ package com.company.for문;
 
 import java.util.Scanner;
 
-public class X보다작은수 {
+public class N찍기_2741 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();
-        int x=scanner.nextInt();
-        for(int i=0;i<n;i++){
+        for(int i=1;i<=n;i++){
             int a=scanner.nextInt();
-            if(a<x){
-                System.out.print(a+" ");
-            }
+            int b=scanner.nextInt();
+            int c=a+b;
+            System.out.println("Case #"+i+": "+a+" + "+b+" = "+c);
         }
     }
 }

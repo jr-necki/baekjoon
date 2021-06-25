@@ -2,7 +2,7 @@ package com.company.문자열;
 
 import java.util.Scanner;
 
-public class 숫자의합 {
+public class 숫자의합_11720 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int a=scanner.nextInt();

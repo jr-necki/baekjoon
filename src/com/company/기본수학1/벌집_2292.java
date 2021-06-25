@@ -2,7 +2,7 @@ package com.company.기본수학1;
 
 import java.util.Scanner;
 
-public class 벌집 {
+public class 벌집_2292 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();

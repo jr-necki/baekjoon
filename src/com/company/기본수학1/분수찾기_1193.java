@@ -2,7 +2,7 @@ package com.company.기본수학1;
 
 import java.util.Scanner;
 
-public class 분수찾기 {
+public class 분수찾기_1193 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();

@@ -2,7 +2,7 @@ package com.company.if문;
 
 import java.util.Scanner;
 
-public class 사분면고르기 {
+public class 사분면고르기_14681 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int x=scanner.nextInt();

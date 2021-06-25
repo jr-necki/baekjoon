@@ -1,21 +1,20 @@
-package com.company.기본수학1;
+package com.company.if문;
 
 import java.util.Scanner;
 
-public class 손익분기점 {
-
+public class 두수비교하기_1330 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int a=scanner.nextInt();
         int b=scanner.nextInt();
-        int c=scanner.nextInt();
-        int i=1;
-        if (c<=b){
-            System.out.print(-1);
+
+        if(a>b){
+            System.out.println(">");
+        }else if(a<b){
+            System.out.println("<");
         }else{
-            System.out.print((a/(c-b))+1);
+            System.out.println("==");
         }
-
-
     }
+
 }

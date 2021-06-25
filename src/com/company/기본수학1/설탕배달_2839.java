@@ -2,7 +2,7 @@ package com.company.기본수학1;
 
 import java.util.Scanner;
 
-public class 설탕배달 {
+public class 설탕배달_2839 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

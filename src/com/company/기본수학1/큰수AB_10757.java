@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class 큰수AB {
+public class 큰수AB_10757 {
     public static void main(String[] args) throws IOException {
         Scanner scan=new Scanner(System.in);
         String ab=scan.nextLine();

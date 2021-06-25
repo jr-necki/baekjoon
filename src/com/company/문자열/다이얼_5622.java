@@ -2,7 +2,7 @@ package com.company.문자열;
 
 import java.util.Scanner;
 
-public class 다이얼 {
+public class 다이얼_5622 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         String s=scanner.next();

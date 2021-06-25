@@ -2,7 +2,7 @@ package com.company.문자열;
 
 import java.util.Scanner;
 
-public class 그룹단어체커 {
+public class 그룹단어체커_1316 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int[]arr=new int[26];

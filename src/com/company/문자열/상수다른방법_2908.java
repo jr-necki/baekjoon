@@ -2,7 +2,7 @@ package com.company.문자열;
 
 import java.io.IOException;
 
-public class 상수다른방법 {
+public class 상수다른방법_2908 {
     public static void main(String[] args) throws IOException {
         int A = 0;
         int B = 0;
