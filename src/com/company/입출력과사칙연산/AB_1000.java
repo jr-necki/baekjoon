@@ -2,7 +2,7 @@ package com.company.입출력과사칙연산;
 
 import java.util.Scanner;
 
-public class AB {
+public class AB_1000 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int A=scanner.nextInt();
