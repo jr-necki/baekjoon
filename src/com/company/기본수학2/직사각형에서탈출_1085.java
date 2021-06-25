@@ -2,7 +2,7 @@ package com.company.기본수학2;
 
 import java.util.Scanner;
 
-public class 직사각형에서탈출 {
+public class 직사각형에서탈출_1085 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int x=scanner.nextInt();

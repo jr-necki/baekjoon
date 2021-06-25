@@ -2,7 +2,7 @@ package com.company.배열1;
 
 import java.util.Scanner;
 
-public class 최소최대 {
+public class 최소최대_10818 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();

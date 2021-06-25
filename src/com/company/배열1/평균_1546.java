@@ -3,7 +3,7 @@ package com.company.배열1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 평균 {
+public class 평균_1546 {
     public static void main(String[] args) {
 
         Scanner scanner= new Scanner(System.in);

@@ -2,7 +2,7 @@ package com.company.기본수학2;
 
 import java.util.Scanner;
 
-public class 소인수분해 {
+public class 소인수분해_11653 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();

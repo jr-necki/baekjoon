@@ -2,7 +2,7 @@ package com.company.배열1;
 
 import java.util.Scanner;
 
-public class OX퀴즈 {
+public class OX퀴즈_8958 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

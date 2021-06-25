@@ -2,7 +2,7 @@ package com.company.기본수학2;
 
 import java.util.Scanner;
 
-public class 네번째점 {
+public class 네번째점_3009 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int x1=scanner.nextInt();

@@ -2,7 +2,7 @@ package com.company.배열1;
 
 import java.util.Scanner;
 
-public class 숫자의개수 {
+public class 숫자의개수_2577 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int a=scanner.nextInt();

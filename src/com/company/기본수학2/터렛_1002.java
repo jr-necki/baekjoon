@@ -2,7 +2,7 @@ package com.company.기본수학2;
 
 import java.util.Scanner;
 
-public class 터렛 {
+public class 터렛_1002 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int cases = scanner.nextInt();

@@ -2,7 +2,7 @@ package com.company.기본수학2;
 
 import java.util.Scanner;
 
-public class 소수구하기 {
+public class 소수구하기_1929 {
     public static boolean[]prime;
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

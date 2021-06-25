@@ -2,7 +2,7 @@ package com.company.기본수학2;
 
 import java.util.Scanner;
 
-public class 골드바흐의추측 {
+public class 골드바흐의추측_9020 {
     static boolean[] prime=new boolean[10001];
     public static void main(String[] args) {
 

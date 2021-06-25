@@ -2,7 +2,7 @@ package com.company.기본수학2;
 
 import java.util.Scanner;
 
-public class 베르트랑공준 {
+public class 베르트랑공준_4948 {
     public static boolean[] sosu = new boolean[246913];
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

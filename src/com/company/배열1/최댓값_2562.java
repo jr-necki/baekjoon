@@ -2,7 +2,7 @@ package com.company.배열1;
 
 import java.util.Scanner;
 
-public class 최댓값 {
+public class 최댓값_2562 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int []numbers=new int[9];

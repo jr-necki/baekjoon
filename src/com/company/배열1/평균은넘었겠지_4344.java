@@ -2,7 +2,7 @@ package com.company.배열1;
 
 import java.util.Scanner;
 
-public class 평균은넘었겠지 {
+public class 평균은넘었겠지_4344 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int cases=scanner.nextInt();

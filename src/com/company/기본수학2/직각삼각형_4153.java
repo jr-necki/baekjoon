@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 직각삼각형 {
+public class 직각삼각형_4153 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int []arr=new int[3];
