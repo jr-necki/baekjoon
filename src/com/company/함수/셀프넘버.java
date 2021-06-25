@@ -21,7 +21,7 @@ public class 셀프넘버 {
     private static int d(int n) {
         int sum=n;
         while(n!=0){//각 자리수 더해주기
-            sum=sum+n%10;//일의자리
+            sum=sum+n%10;//일의자리!
             n=n/10;
         }
         return sum;

@@ -1,6 +1,5 @@
 package com.company.함수;
 
-import java.util.Scanner;
 
 public class 정수N개의합 {
     public static void main(String[] args) {

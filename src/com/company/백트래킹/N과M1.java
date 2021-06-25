@@ -6,6 +6,7 @@ public class N과M1 {
     public  static int[]arr;
     public  static boolean[]visit;
 
+
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();//1부터 n까지

@@ -6,6 +6,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class 단어정렬 {
+
     public static void main(String[] args) {
        Scanner scanner=new Scanner(System.in);
        int n=scanner.nextInt();

@@ -3,6 +3,7 @@ package com.company.재귀;
 import java.util.Scanner;
 
 public class 피보나치 {
+
     static int x=0;
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

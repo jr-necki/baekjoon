@@ -3,6 +3,7 @@ package com.company.재귀;
 import java.util.Scanner;
 
 public class 하노이탑 {
+
     public static  StringBuilder sb=new StringBuilder();
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

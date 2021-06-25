@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class 수정렬하기2 {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StringBuilder sb = new StringBuilder();

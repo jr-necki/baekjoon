@@ -7,7 +7,7 @@ public class 통계학 {
         Scanner scanner=new Scanner(System.in);
         int n=scanner.nextInt();
 
-        //입력값 범위 -4000~4000
+        //입력값 범위는 -4000~4000
         int []arr=new int[8001];
         int sum=0;
         int max=-4001;
