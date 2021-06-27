@@ -2,7 +2,7 @@ package com.company.브루트포스;
 
 import java.util.Scanner;
 
-public class 영화감독숌 {
+public class 영화감독숌_1436 {
 
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

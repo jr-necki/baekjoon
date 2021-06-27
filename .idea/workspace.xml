@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="조합문제">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/덩치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/덩치_7568.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/분해합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/분해합_2231.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/블랙잭.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/블랙잭_2798.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/영화감독숌.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/영화감독숌_1436.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/브루트포스/체스판다시칠하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/브루트포스/체스판다시칠하기_1018.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1059,7 +1063,7 @@
       <workItem from="1624613452997" duration="9207000" />
       <workItem from="1624710959104" duration="7586000" />
       <workItem from="1624768233504" duration="10127000" />
-      <workItem from="1624800116012" duration="4667000" />
+      <workItem from="1624800116012" duration="4987000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1609506512165</created>
@@ -1299,7 +1303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624804966910</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="commit">
+      <created>1624805539363</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1624805539363</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1338,12 +1349,12 @@
     <MESSAGE value="20일차(점점 어렵다..)" />
     <MESSAGE value="21일차" />
     <MESSAGE value="21일차(백트래킹)" />
-    <MESSAGE value="commit" />
     <MESSAGE value="스택" />
     <MESSAGE value="정수론 및 조합론" />
     <MESSAGE value="파스칼의 삼각형&amp; 조합성질 이용해봄" />
     <MESSAGE value="조합문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="조합문제" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/baekjoon$.ic" NAME="그룹단어체커 Coverage Results" MODIFIED="1610257737506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

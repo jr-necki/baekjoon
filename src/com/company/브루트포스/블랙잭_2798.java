@@ -3,7 +3,7 @@ package com.company.브루트포스;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 블랙잭 {
+public class 블랙잭_2798 {
 
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
