@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="파스칼의 삼각형&amp; 조합성질 이용해봄">
+    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="조합문제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,13 +112,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.패션왕신해빈_9375">
+  <component name="RunManager" selected="Application.팩토리얼0의개수_1676">
     <configuration name="더하기사이클" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.while문.더하기사이클" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.while문.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="팩토리얼0의개수_1676" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.정수론및조합론.팩토리얼0의개수_1676" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.정수론및조합론.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -945,19 +958,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최소공배수_1934" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정수론및조합론.최소공배수_1934" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정수론및조합론.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="패션왕신해빈_9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.정수론및조합론.패션왕신해빈_9375" />
       <module name="baekjoon" />
@@ -986,11 +986,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.팩토리얼0의개수_1676" />
         <item itemvalue="Application.패션왕신해빈_9375" />
         <item itemvalue="Application.다리놓기" />
         <item itemvalue="Application.이항계수2_11051" />
         <item itemvalue="Application.이항계수1_11050" />
-        <item itemvalue="Application.최소공배수_1934" />
       </list>
     </recent_temporary>
   </component>
@@ -1059,7 +1059,7 @@
       <workItem from="1624613452997" duration="9207000" />
       <workItem from="1624710959104" duration="7586000" />
       <workItem from="1624768233504" duration="10127000" />
-      <workItem from="1624800116012" duration="3931000" />
+      <workItem from="1624800116012" duration="4667000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1609506512165</created>
@@ -1292,7 +1292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624776467123</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="조합문제">
+      <created>1624804966910</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1624804966910</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1311,7 +1318,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2일차" />
     <MESSAGE value="3일차" />
     <MESSAGE value="4일차 (아파서 하나함...)" />
     <MESSAGE value="5일차" />
@@ -1336,7 +1342,8 @@
     <MESSAGE value="스택" />
     <MESSAGE value="정수론 및 조합론" />
     <MESSAGE value="파스칼의 삼각형&amp; 조합성질 이용해봄" />
-    <option name="LAST_COMMIT_MESSAGE" value="파스칼의 삼각형&amp; 조합성질 이용해봄" />
+    <MESSAGE value="조합문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="조합문제" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/baekjoon$.ic" NAME="그룹단어체커 Coverage Results" MODIFIED="1610257737506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
