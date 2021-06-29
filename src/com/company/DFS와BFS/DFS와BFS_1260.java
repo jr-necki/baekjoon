@@ -10,7 +10,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class DFS와BFS {
+public class DFS와BFS_1260 {
     static int[][]arr;
     static boolean[]check;
     private static StringBuilder sb=new StringBuilder();

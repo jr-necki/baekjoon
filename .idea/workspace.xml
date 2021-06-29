@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="DFS BFS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DFS와BFS/DFS와BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DFS와BFS/DFS와BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DFS와BFS/DFS와BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DFS와BFS/DFS와BFS_1260.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.DFS와BFS">
+  <component name="RunManager" selected="Application.바이러스_2606">
     <configuration name="더하기사이클" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.while문.더하기사이클" />
       <module name="baekjoon" />
@@ -140,21 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="이항계수2_11051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정수론및조합론.이항계수2_11051" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정수론및조합론.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFS와BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DFS와BFS.DFS와BFS" />
+    <configuration name="DFS와BFS_1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DFS와BFS.DFS와BFS_1260" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -972,6 +959,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="바이러스_2606" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DFS와BFS.바이러스_2606" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DFS와BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="패션왕신해빈_9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.정수론및조합론.패션왕신해빈_9375" />
       <module name="baekjoon" />
@@ -998,11 +998,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DFS와BFS" />
+        <item itemvalue="Application.바이러스_2606" />
+        <item itemvalue="Application.DFS와BFS_1260" />
         <item itemvalue="Application.팰린드롬수_1259" />
         <item itemvalue="Application.팩토리얼0의개수_1676" />
         <item itemvalue="Application.패션왕신해빈_9375" />
-        <item itemvalue="Application.이항계수2_11051" />
       </list>
     </recent_temporary>
   </component>
@@ -1074,7 +1074,7 @@
       <workItem from="1624800116012" duration="5599000" />
       <workItem from="1624857954034" duration="1568000" />
       <workItem from="1624948546888" duration="2444000" />
-      <workItem from="1624973406069" duration="3675000" />
+      <workItem from="1624973406069" duration="5182000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1609506512165</created>
@@ -1335,7 +1335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624953763031</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="DFS BFS">
+      <created>1624977622384</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1624977622384</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
