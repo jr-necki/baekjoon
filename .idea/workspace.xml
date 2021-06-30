@@ -112,26 +112,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.단지번호붙이기_2667">
+  <component name="RunManager" selected="Application.유기농배추_1012">
     <configuration name="더하기사이클" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.while문.더하기사이클" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.while문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="팩토리얼0의개수_1676" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정수론및조합론.팩토리얼0의개수_1676" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정수론및조합론.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -945,6 +932,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="유기농배추_1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DFS와BFS.유기농배추_1012" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DFS와BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="팰린드롬수_1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.문자열.팰린드롬수_1259" />
       <module name="baekjoon" />
@@ -999,11 +999,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.유기농배추_1012" />
         <item itemvalue="Application.단지번호붙이기_2667" />
         <item itemvalue="Application.바이러스_2606" />
         <item itemvalue="Application.DFS와BFS_1260" />
         <item itemvalue="Application.팰린드롬수_1259" />
-        <item itemvalue="Application.팩토리얼0의개수_1676" />
       </list>
     </recent_temporary>
   </component>
@@ -1076,7 +1076,7 @@
       <workItem from="1624857954034" duration="1568000" />
       <workItem from="1624948546888" duration="2444000" />
       <workItem from="1624973406069" duration="6107000" />
-      <workItem from="1625056737049" duration="4088000" />
+      <workItem from="1625056737049" duration="6245000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1609506512165</created>
@@ -1358,7 +1358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625062025467</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="DFS BFS">
+      <created>1625063931762</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1625063931762</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
