@@ -32,7 +32,7 @@ public class 단지번호붙이기_2667 {
 
         for(int i=0;i<N;i++){
             for(int j=0;j<N;j++){
-                if(map[i][j]==1&&!check[i][j]){
+                if(map[i][j]==1&&!check[i][j]){// 단지분리 및 수 체크됨!!
                     cnt=1;
                     search(i,j);
                     al.add(cnt);
@@ -46,7 +46,7 @@ public class 단지번호붙이기_2667 {
         }
     }
 
-    private static void search(int i, int j) {
+    private static void search(int i, int j) {//이어진곳들 체크함
         check[i][j]=true;//방문체크
         for(int k=0;k<dx.length;k++){
                 int nx=i+dx[k];
