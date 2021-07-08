@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="DFS BFS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DFS와BFS/DFS와BFS_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DFS와BFS/DFS와BFS_1260.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DFS와BFS/단지번호붙이기_2667.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DFS와BFS/단지번호붙이기_2667.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DFS와BFS/바이러스_2606.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DFS와BFS/바이러스_2606.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,383 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.배열1.최댓값" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.배열1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="피보나치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.재귀.피보나치" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.재귀.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="좌표정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정렬.좌표정렬하기" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="소트인사이드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정렬.소트인사이드" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="통계학" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정렬.통계학" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="나이순정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정렬.나이순정렬" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="소수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.소수구하기" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="그룹단어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.그룹단어" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="최소최대" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.배열1.최소최대" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.배열1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="숫자의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.숫자의합" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="단어공부" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.단어공부" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="아스키코드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.아스키코드" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="알람시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.if문.알람시계" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.if문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="평균" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.배열1.평균" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.배열1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="알파벳찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.알파벳찾기" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="셀프넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.함수.셀프넘버" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.함수.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="벌집" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학1.벌집" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="단어정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.정렬.단어정렬" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="윤년" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.if문.윤년" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.if문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="분수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학1.분수찾기" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="골드바흐의추측" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.골드바흐의추측" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="소인수분해" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.소인수분해" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="터렛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.터렛" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="팩토리얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.재귀.팩토리얼" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.재귀.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="분수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학1.분수찾기" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="소수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.소수찾기" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.기본수학2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="통계학" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.정렬.통계학" />
       <module name="baekjoon" />
@@ -534,6 +154,19 @@
     </configuration>
     <configuration name="다이얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.문자열.다이얼" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="알파벳찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.알파벳찾기" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -584,6 +217,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="그룹단어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.그룹단어" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="평균은넘었겠지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.배열1.평균은넘었겠지" />
       <module name="baekjoon" />
@@ -623,6 +269,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="골드바흐의추측" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.골드바흐의추측" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="한수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.함수.한수" />
       <module name="baekjoon" />
@@ -636,12 +295,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="피보나치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.재귀.피보나치" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.재귀.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="평균은넘었겠지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.배열1.평균은넘었겠지" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.배열1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="셀프넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.함수.셀프넘버" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.함수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -701,12 +386,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="최소최대" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.배열1.최소최대" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.배열1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="단어의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.문자열.단어의개수" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="소인수분해" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.소인수분해" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -766,6 +477,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.배열1.최댓값" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.배열1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="좌표정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.정렬.좌표정렬하기" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
       <module name="baekjoon" />
@@ -807,6 +544,32 @@
     </configuration>
     <configuration name="그룹단어체커" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.문자열.그룹단어체커" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="소수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.소수구하기" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.숫자의합" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -870,6 +633,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="벌집" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학1.벌집" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="블랙잭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.브루트포스.블랙잭" />
       <module name="baekjoon" />
@@ -896,12 +672,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="소트인사이드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.정렬.소트인사이드" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="손익분기점" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.수학.손익분기점" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.수학.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="터렛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.터렛" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -928,6 +730,201 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.기본수학1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="단어공부" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.단어공부" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="통계학" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.정렬.통계학" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="나이순정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.정렬.나이순정렬" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="단어정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.정렬.단어정렬" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="아스키코드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.아스키코드" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="알람시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.if문.알람시계" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.if문.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="평균" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.배열1.평균" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.배열1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="팩토리얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.재귀.팩토리얼" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.재귀.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="윤년" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.if문.윤년" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.if문.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="분수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학1.분수찾기" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="분수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학1.분수찾기" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="크로아티아알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.크로아티아알파벳" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="소수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.기본수학2.소수찾기" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.기본수학2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1071,6 +1068,10 @@
       <workItem from="1625116125431" duration="4769000" />
       <workItem from="1625143162677" duration="6858000" />
       <workItem from="1625202748567" duration="8943000" />
+      <workItem from="1625227217938" duration="1222000" />
+      <workItem from="1625312598762" duration="127000" />
+      <workItem from="1625709318691" duration="2000" />
+      <workItem from="1625713621464" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="1일차">
       <created>1609506512165</created>
@@ -1380,7 +1381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625147404273</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="DFS BFS">
+      <created>1625227238675</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1625227238675</updated>
+    </task>
+    <task id="LOCAL-00046" summary="정수 및 조합론">
+      <created>1625312654304</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1625312654305</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1399,7 +1414,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4일차 (아파서 하나함...)" />
     <MESSAGE value="5일차" />
     <MESSAGE value="6일차" />
     <MESSAGE value="7일차" />
@@ -1424,7 +1438,8 @@
     <MESSAGE value="조합문제" />
     <MESSAGE value="commit" />
     <MESSAGE value="DFS BFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS BFS" />
+    <MESSAGE value="정수 및 조합론" />
+    <option name="LAST_COMMIT_MESSAGE" value="정수 및 조합론" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
