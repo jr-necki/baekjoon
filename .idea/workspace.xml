@@ -112,7 +112,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.숫자카드2_10816">
+  <component name="RunManager">
     <configuration name="더하기사이클" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.while문.더하기사이클" />
       <module name="baekjoon" />
@@ -945,12 +945,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="팰린드롬수_1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.문자열.팰린드롬수_1259" />
+    <configuration name="큐_10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.큐.큐_10845" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.문자열.*" />
+          <option name="PATTERN" value="com.company.큐.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -958,12 +958,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="숨바꼭질_1697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DFS와BFS.숨바꼭질_1697" />
+    <configuration name="팰린드롬수_1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.문자열.팰린드롬수_1259" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DFS와BFS.*" />
+          <option name="PATTERN" value="com.company.문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -997,11 +997,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.큐_10845" />
         <item itemvalue="Application.숫자카드2_10816" />
         <item itemvalue="Application.카드2" />
         <item itemvalue="Application.수찾기_1920" />
         <item itemvalue="Application.팰린드롬수_1259" />
-        <item itemvalue="Application.숨바꼭질_1697" />
       </list>
     </recent_temporary>
   </component>
@@ -1084,14 +1084,7 @@
       <workItem from="1625709318691" duration="2000" />
       <workItem from="1625713621464" duration="722000" />
       <workItem from="1625740018976" duration="7797000" />
-      <workItem from="1625792937065" duration="6967000" />
-    </task>
-    <task id="LOCAL-00002" summary="2일차">
-      <created>1609593048047</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1609593048047</updated>
+      <workItem from="1625792937065" duration="9383000" />
     </task>
     <task id="LOCAL-00003" summary="3일차">
       <created>1609660252401</created>
@@ -1429,7 +1422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625795675803</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="이분탐색">
+      <created>1625800081291</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1625800081291</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
