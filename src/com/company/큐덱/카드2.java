@@ -1,4 +1,4 @@
-package com.company.큐;
+package com.company.큐덱;
 
 import java.io.BufferedReader;
 import java.io.IOException;
