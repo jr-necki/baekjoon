@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="문자열">
+    <list default="true" id="7b9a8904-20be-44ea-8018-60cebf27a667" name="Default Changelist" comment="이분탐색">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/이분탐색/수찾기_1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/이분탐색/수찾기_1920.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.카드2">
+  <component name="RunManager" selected="Application.숫자카드2_10816">
     <configuration name="더하기사이클" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.while문.더하기사이클" />
       <module name="baekjoon" />
@@ -133,6 +132,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="숫자카드2_10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.이분탐색.숫자카드2_10816" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -972,19 +984,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="단지번호붙이기_2667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DFS와BFS.단지번호붙이기_2667" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.DFS와BFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -998,11 +997,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.숫자카드2_10816" />
         <item itemvalue="Application.카드2" />
         <item itemvalue="Application.수찾기_1920" />
         <item itemvalue="Application.팰린드롬수_1259" />
         <item itemvalue="Application.숨바꼭질_1697" />
-        <item itemvalue="Application.단지번호붙이기_2667" />
       </list>
     </recent_temporary>
   </component>
@@ -1085,14 +1084,7 @@
       <workItem from="1625709318691" duration="2000" />
       <workItem from="1625713621464" duration="722000" />
       <workItem from="1625740018976" duration="7797000" />
-      <workItem from="1625792937065" duration="2676000" />
-    </task>
-    <task id="LOCAL-00001" summary="1일차">
-      <created>1609506512165</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1609506512165</updated>
+      <workItem from="1625792937065" duration="6967000" />
     </task>
     <task id="LOCAL-00002" summary="2일차">
       <created>1609593048047</created>
@@ -1423,7 +1415,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625754442005</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="큐">
+      <created>1625795654783</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1625795654783</updated>
+    </task>
+    <task id="LOCAL-00050" summary="이분탐색">
+      <created>1625795675803</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1625795675803</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1442,7 +1448,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7일차" />
     <MESSAGE value="8일차" />
     <MESSAGE value="9일차" />
     <MESSAGE value="10일차" />
@@ -1465,9 +1470,10 @@
     <MESSAGE value="commit" />
     <MESSAGE value="DFS BFS" />
     <MESSAGE value="정수 및 조합론" />
-    <MESSAGE value="이분탐색" />
     <MESSAGE value="문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열" />
+    <MESSAGE value="큐" />
+    <MESSAGE value="이분탐색" />
+    <option name="LAST_COMMIT_MESSAGE" value="이분탐색" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
