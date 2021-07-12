@@ -112,7 +112,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.요세무스문제0_11866">
+  <component name="RunManager" selected="Application.괄호_9012_solved">
     <configuration name="더하기사이클" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.while문.더하기사이클" />
       <module name="baekjoon" />
@@ -126,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="요세무스문제0_11866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.큐덱.요세무스문제0_11866" />
+    <configuration name="요세푸스문제0_11866_solved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.큐덱.요세푸스문제0_11866_solved" />
       <module name="baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -984,15 +984,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="수찾기_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.이분탐색.수찾기_1920" />
+    <configuration name="괄호_9012_solved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.스택.괄호_9012_solved" />
       <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.이분탐색.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1010,11 +1004,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.요세무스문제0_11866" />
+        <item itemvalue="Application.괄호_9012_solved" />
+        <item itemvalue="Application.요세푸스문제0_11866_solved" />
         <item itemvalue="Application.큐_10845" />
         <item itemvalue="Application.숫자카드2_10816" />
         <item itemvalue="Application.카드2" />
-        <item itemvalue="Application.수찾기_1920" />
       </list>
     </recent_temporary>
   </component>
@@ -1101,14 +1095,7 @@
       <workItem from="1625836019208" duration="4795000" />
       <workItem from="1625889290142" duration="2444000" />
       <workItem from="1625967923836" duration="4000" />
-      <workItem from="1626053942547" duration="758000" />
-    </task>
-    <task id="LOCAL-00006" summary="5일차">
-      <created>1609921566771</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1609921566771</updated>
+      <workItem from="1626053942547" duration="3909000" />
     </task>
     <task id="LOCAL-00007" summary="6일차">
       <created>1609998022712</created>
@@ -1446,7 +1433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625841047691</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="큐/덱">
+      <created>1626054825224</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1626054825225</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
